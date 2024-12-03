@@ -50,7 +50,7 @@ The dashboard is equipped with two distinct roles—Admin and User—each with s
 Run the following command to clone the repository:
 
 ```
-git clone https://www.linkedin.com/in/patibandla-swaroopa-b4a181278/
+git clone https://github.com/patibandlaswaroopa/Full-Stack-Project.git
 
 ```
 
